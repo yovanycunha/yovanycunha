@@ -1,7 +1,7 @@
 ### Hey 👋
-- I'm Yovany,a frontend developer driven for my curiosity
-- Currently solving problems at [Afya](https://github.com/AfyaTech)
-- Undergraduate at UFCG
+- I'm Yovany, a frontend developer driven for my curiosity.
+- Currently solving problems at [Afya](https://github.com/AfyaTech).
+- Undergraduate at UFCG.
 
 
 <p align = "center">
