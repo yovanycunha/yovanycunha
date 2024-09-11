@@ -1,5 +1,5 @@
 ### Hey 👋
-- I'm Yovany, a frontend developer driven for my curiosity.
+- I'm Yovany, a fullstack developer driven for my curiosity.
 - Currently solving problems at [Afya](https://github.com/AfyaTech).
 - Undergraduate at UFCG.
 
