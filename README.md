@@ -1,7 +1,6 @@
 ### Hey 👋
-- I'm Yovany, a fullstack developer driven for my curiosity.
-- Currently solving problems at [Afya](https://github.com/AfyaTech).
-- Undergraduate at UFCG.
+- I'm Yovany, a fullstack developer driven by my curiosity.
+- BS in Computer Science @ UFCG
 
 
 <p align = "center">
